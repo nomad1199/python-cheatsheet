@@ -41,7 +41,7 @@ List
 <list>.sort()
 <list>.reverse()
 <list> = sorted(<collection>)
-<iter> = reversed(<list>)
+<list> = reversed(<list>)
 ```
 
 ```python
